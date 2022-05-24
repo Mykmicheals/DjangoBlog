@@ -1,4 +1,4 @@
-# DjangoBlog
+# DjangoBlog.
 
 Clone This Project (Make Sure You Have Git Installed on your system)
 
