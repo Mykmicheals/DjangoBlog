@@ -20,4 +20,4 @@ Set Database (Make Sure you are in directory same as manage.py)
 
 After all these steps , you can start testing and developing this project.
 
-That's it! Happy Coding
+That's it! Happy Coding!
